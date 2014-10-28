@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+	<student>
+		<firstName>Max</firstName>
+		<lastName>Lip</lastName>
+		<birthday>04.07.1994</birthday>
+		<course>4</course>
+		<group>60</group>
+	</student>
+	<student>
+		<firstName>Alex</firstName>
+		<lastName>Resh</lastName>
+		<birthday>27.07.1993</birthday>
+		<course>4</course>
+		<group>3</group>
+	</student>
+	<student>
+		<firstName>Andrew</firstName>
+		<lastName>Pan</lastName>
+		<birthday>14.02.1994</birthday>
+		<course>4</course>
+		<group>3</group>
+	</student>
+</students>
